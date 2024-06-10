@@ -9,7 +9,7 @@ Tested using `Python 3.10.5` (newer versions may or may not work)
 
 # Key Features:
 
-YOLOv5 Integration: Utilizes a custom-trained YOLOv5 model to detect mazes in input images.
+YOLOv5 Integration: Utilizes a custom-trained model to detect mazes in input images.
 Image Processing with OpenCV: Manipulates and enhances maze images for better user interaction.
 Pathfinding with BFS: Implements the BFS algorithm to find the shortest path in the maze.
 User Interface: Provides an intuitive UI for image capture/upload, start/end point marking, and displaying the solution path.
