@@ -6,6 +6,7 @@ Demonstration: [YouTube Video](https://www.youtube.com/)
 <img src="test_imgs/Detect_Interface.png"> 
 <img src="test_imgs/Cutted_Maze.png">
 <img src="test_imgs/Bfs_Solved.png"> 
+<img src="test_imgs/Bfs_Solved_2.png"> 
 
 Tested using `Python 3.10.5` (newer versions may or may not work)
 
