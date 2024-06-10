@@ -21,8 +21,10 @@ User Interface: Provides an intuitive UI for image capture/upload, start/end poi
 Technologies Used:
 
 - `Python 3.10.5`
-- `OpenCV`
-- `PyTorch`
-- `NumPy`
-- `PyQt5`
+- `OpenCV-python`: 4.8.0.76
+- `Torch`: 2.0.1
+- `Torchvision`: 0.15.2
+- `Ultralytics`: 8.1.19
+- `NumPy`: 1.23.5
+- `PyQt5`: 5.15.9
 - `Tkinter`
