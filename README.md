@@ -25,6 +25,7 @@ Technologies Used:
 - `Torch`: 2.0.1
 - `Torchvision`: 0.15.2
 - `Ultralytics`: 8.1.19
+- `seaborn`: 0.12.2
 - `NumPy`: 1.23.5
 - `PyQt5`: 5.15.9
 - `Tkinter`
