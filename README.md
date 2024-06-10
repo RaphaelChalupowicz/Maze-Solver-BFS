@@ -3,7 +3,8 @@ Python based application that detects and solves mazes using a trained neural ne
 
 Demonstration: [YouTube Video](https://www.youtube.com/)
 
-<img src="test_imgs/screen.png"> 
+<img src="test_imgs/Detect_Interface.png"> 
+<img src="test_imgs/Bfs_Solved.png"> 
 
 Tested using `Python 3.10.5` (newer versions may or may not work)
 
