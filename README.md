@@ -47,7 +47,11 @@ pip install -r requirements.txt
 
 # Usage:
 
-1. Run the application:
+1. Navigate to the project directory:
+```bash
+cd Code
+```
+2. Run the application:
 ```bash
 python MazeSolver.py
 ```
