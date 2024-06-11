@@ -29,3 +29,25 @@ Technologies Used:
 - `NumPy`: 1.23.5
 - `PyQt5`: 5.15.9
 - `Tkinter`
+
+# Installation and Setup:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/RaphaelChalupowicz/Maze-Solver-BFS.git
+```
+2. Navigate to the project directory:
+```bash
+cd Maze-Solver-BFS
+```
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+# Usage:
+
+1. Run the application:
+```bash
+python MazeSolver.py
+```
